@@ -1,9 +1,11 @@
 # Landing-page-async :tw-2764:
-Una landingpage increible donde consumiremos una api y pondremos en practica el asincronismo
-> - Master Erik
+Una landingpage increible donde consumimos una api y pondremos en practica el asincronismo
+> - Ing. Master Erik
 
-## En este curso vemos de todo:
+## Este repositorio puedes usarlo como plantilla para:
 
-* Disponible para todas las edades
+* Tus practicas
+*Crear tu portafolio
+*Estudiar el asincronismo
 
-Y como un amable recordatorio **nunca pares de aprender**
+Puedes ver la pagina aqui: **https://masterkire.github.io/landing-page-async/**
